@@ -2,13 +2,11 @@
 
 A computer vision-powered Python application that lets you control your computer using just your hand gestures — no mouse, no touchpad. Move your cursor, click, scroll, minimize, and close windows using natural hand signs captured via your webcam.
 
----
 
 ## 📽️ Demo
 
 ![Demo GIF](assets/Pardhu_OpenCV_mediaPipe_Cursor (1) (1).mp4)
 
----
 
 ## 📌 Features
 
@@ -21,7 +19,6 @@ A computer vision-powered Python application that lets you control your computer
 
 🎮 Includes a **Pygame overlay** that visually displays real-time hand tracking and gesture detection feedback.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -31,7 +28,6 @@ A computer vision-powered Python application that lets you control your computer
 - **PyAutoGUI**  
 - **Pygame**
 
----
 
 ## 📦 Installation
 
@@ -51,7 +47,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
 
 ## ⚙️ How It Works
 
@@ -59,7 +54,6 @@ python main.py
 - Maps specific gestures (fist, open hand, thumb up, etc.) to system actions using **PyAutoGUI**.
 - Displays real-time gesture feedback and hand detection using **Pygame** overlay.
 
----
 
 ## 💡 Motivation
 
@@ -67,13 +61,11 @@ I’ve always been fascinated by the possibilities at the intersection of comput
 
 This project is a small step toward touchless interfaces redefining our digital experience.
 
----
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
 ## 🙌 Let’s Connect!
 
@@ -83,11 +75,9 @@ Feel free to connect and collaborate!
 - [LinkedIn](www.linkedin.com/in/pardha-sai-gudivada-297447259)
 - [Portfolio/Website](saiparth.ccbp.tech)
 
----
 
 ## ⭐️ Star this repo if you liked it!
 
----
 
 ## 🔖 TODO
 
