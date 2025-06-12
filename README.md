@@ -6,9 +6,7 @@ A computer vision-powered Python application that lets you control your computer
 
 ## 📽️ Demo
 
-*(Add your GIF/video demo here once ready — recommended size: 600px width for optimal GitHub rendering)*
-
-![Demo GIF](assets/demo.gif)
+![Demo GIF](assets/Pardhu_OpenCV_mediaPipe_Cursor (1) (1).mp4)
 
 ---
 
