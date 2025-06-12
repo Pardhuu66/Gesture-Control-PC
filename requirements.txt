@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+pygame
+pyautogui
+numpy
+asyncio
+nest_asyncio
+pywin32
