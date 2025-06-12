@@ -37,7 +37,7 @@ A computer vision-powered Python application that lets you control your computer
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-username/Gesture-Control-PC.git
+git clone https://github.com/Pardhuu66/Gesture-Control-PC.git
 cd Gesture-Control-PC
 ```
 
@@ -80,9 +80,8 @@ This project is licensed under the [MIT License](LICENSE).
 Love tech, computer vision, or side projects?  
 Feel free to connect and collaborate!
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Portfolio/Website](https://your-portfolio.com)
+- [LinkedIn](www.linkedin.com/in/pardha-sai-gudivada-297447259)
+- [Portfolio/Website](saiparth.ccbp.tech)
 
 ---
 
